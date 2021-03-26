@@ -1,0 +1,127 @@
+body{
+	margin:0;
+	padding:0;
+background-color: black;
+}
+
+
+
+.outer{
+  text-align: center;
+}
+
+.page{
+	position:relative;
+	margin-top:0px;
+	padding: 0;
+	background-color: #FFF;
+  max-width:1200px;
+  width:100%;
+  height:100%;
+  display: inline-block;
+  text-align:center;
+opacity: 65%;
+}
+
+.bodytext{ 
+	margin-top: 225px;
+	text-align: center;
+	color: mediumorchid;
+	font-family:comfortaa;
+	font-weight:bold;
+	font-size:34px;
+}
+
+a{
+  color:slateblue;
+  text-decoration: none;
+}
+
+a:hover {
+  color:magenta;  
+ }
+
+a:active {
+  color:mediumpurple;
+}
+
+.navbar{ 
+	position: sticky;
+text-align: center;
+background-color:black;
+top:0;
+z-index:100;
+opacity:80%;
+}
+	
+
+.herotile{ 
+background-image: url("img/pinkhero.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+width:100%;
+height:490px;
+}
+
+.herotile1{ 
+background-image: url("img/pink3.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+width:100%;
+height:490px;
+}
+
+.herotile2{ 
+background-image: url("img/pink5.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+width:100%;
+height:490px;
+}
+
+.herotile3{ 
+background-image: url("img/pink6.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+width:100%;
+height:490px;
+}
+
+.herotile4{ 
+background-image: url("img/pinky3.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+width:100%;
+height:490px;
+}
+
+.herotile5{ 
+background-image: url("img/pinkstuff7.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+width:100%;
+height:490px;
+}
+
+.herotile6{ 
+background-image: url("img/pinksauce.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+width:100%;
+height:490px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
